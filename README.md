@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kazimodasserhossain.netlify.app/](https://kazimodasserhossain.netlify.app/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, NodeJS, ExpressJS, MongoDB**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React, NodeJS, ExpressJS, MongoDB**
 
 - 📫 How to reach me **https://kazimodasserhossain.netlify.app/**
 
