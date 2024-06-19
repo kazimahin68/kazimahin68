@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/4YC6SMT/1691074611519.jpg)]
+![MasterHead](https://i.ibb.co/4YC6SMT/1691074611519.jpg)
 <h1 align="center">Hi 👋, I'm Kazi Modasser Hossain</h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/wL4PrXK/MERN-Stack-Development.png"/>
